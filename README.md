@@ -19,27 +19,11 @@ Let’s build. Let’s improve. Let’s grow. 🚀
 ---
 
 #  Module 1 — Complete Machine Learning
-
+---
 ###  Resource
-Complete Machine Learning Playlist:  
-https://youtube.com/playlist?list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I
-
+[Complete Machine Learning Playlist:]  
+(https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&si=9gAXkJE46OS3vMiw)
 ---
-
-##  Topics Covered
-
-- Python for Machine Learning  
-- Python ML Libraries (NumPy, Pandas, Matplotlib, Scikit-Learn)  
-- Data Collection & Preprocessing  
-- Mathematics for ML  
-- Core ML Models  
-- Model Optimization  
-- ML Use Cases  
-- Model Deployment Basics  
-- Deep Learning Overview  
-
----
-
 ## 🚀 Projects - 
 - Rock and Mine Prediction
 - Spam Email Prediction
@@ -51,24 +35,9 @@ https://youtube.com/playlist?list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I
 
 ---
 
-# Module 2 - Deep Learning Concepts - 
-(https://youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO&si=vQ-OiHO0a3yxgDdn)
-
+# Module 2 - [Deep Learning Concepts - ]
+(https://youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&si=LNMXA2XHuO0Jl5Fn)
 ---
-
-## Topics Covered 
-
-- Artificial Neural Networks (ANN)
-- Backpropagation & Optimization
-- CNN (Computer Vision)
-- RNN, LSTM, GRU
-- Regularization & Advanced Optimizers
-- Transfer Learning
-- Attention Mechanism
-- Transformers & LLM Foundations
-
----
-
  ## Projects implemented using TensorFlow & Python:
  https://youtube.com/playlist?list=PLgNJO2hghbmiXg5d4X8DURJP9yv9pgjIu&si=BMchOqVPpS-uoX14
 
