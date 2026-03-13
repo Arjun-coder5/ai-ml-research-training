@@ -24,14 +24,7 @@ Let’s build. Let’s improve. Let’s grow. 🚀
 [Complete Machine Learning Playlist:]  
 (https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&si=9gAXkJE46OS3vMiw)
 ---
-## 🚀 Projects - 
-- Rock and Mine Prediction
-- Spam Email Prediction
-- Health Disease Prediction
-- Loan Approval Prediction
-- Building Lassso Regressionn frmo scratch
-- Movie Recommandation System
-- Music recommendation System
+## 🚀 (Projects -) [https://youtu.be/Nb21OhaW8GY?si=sRSrv-oNf-zE6dtb]
 
 ---
 
