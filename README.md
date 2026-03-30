@@ -1,3 +1,6 @@
+## step - -1 : [python](https://youtube.com/playlist?list=PLTV_nsuD2lf7JOwZdSWuup-YO0AUaDQti&si=Xe3cSbsErsyDhSAe) 
+## step -0 : portfolio website - every project you make showcase it in it : 
+## step -0.5 : [Data visualization : ](https://youtube.com/playlist?list=PL9n0l8rSshSnragNblKDBsT8Xu3otp3jA&si=nTYWKiWAF3bQn8zQ)
 ## Step -0 : [FastAPI](https://youtube.com/playlist?list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ&si=jOj0Ys9id-KvCix0)
 ## Step -1 : [Machine Learning](https://youtube.com/playlist?list=PLaldQ9PzZd9qT0KsKJ7yCq70iFFP3MFJ5&si=y9sOqdS3gAZq4GhG)
 ## Step -1.1 :[ Projects!!](https://youtube.com/playlist?list=PLKnIA16_RmvY5eP91BGPa0vXUYmIdtfPQ&si=5HZg4x98yvRBm_0B)
