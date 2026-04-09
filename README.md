@@ -1,10 +1,6 @@
-## step - -1 : [python](https://youtube.com/playlist?list=PLTV_nsuD2lf7JOwZdSWuup-YO0AUaDQti&si=Xe3cSbsErsyDhSAe) 
-## step -0 : portfolio website - every project you make showcase it in it : 
-## step -0.5 : [Data visualization : ](https://youtube.com/playlist?list=PL9n0l8rSshSnragNblKDBsT8Xu3otp3jA&si=nTYWKiWAF3bQn8zQ)
+## step - -1: [Python-dvlib-ml-dl](https://youtube.com/playlist?list=PLaldQ9PzZd9qPYGj4aWUXitBlfWz72e9m&si=pSmPZcmlbodZqt2L)  
 ## Step -0 : [FastAPI](https://youtube.com/playlist?list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ&si=jOj0Ys9id-KvCix0)
-## Step -1 : [Machine Learning](https://youtube.com/playlist?list=PLaldQ9PzZd9qT0KsKJ7yCq70iFFP3MFJ5&si=y9sOqdS3gAZq4GhG)
-## Step -1.1 :[ Projects!!](https://youtube.com/playlist?list=PLKnIA16_RmvY5eP91BGPa0vXUYmIdtfPQ&si=5HZg4x98yvRBm_0B)
-## Step -2 : [Deep learning](https://youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&si=6k9Yanac2JZ7E74a) 
+## Step -1.1 :[ Projects!! - ML](https://youtube.com/playlist?list=PLKnIA16_RmvY5eP91BGPa0vXUYmIdtfPQ&si=5HZg4x98yvRBm_0B)
 ## Step -3 : [DL project](https://youtube.com/playlist?list=PLfFghEzKVmjvyT7wdfDJSHhS0FdF8jd-U&si=NSqBKHLL0bJUJl2o)
 ## Step -4 : [Computer Vision + Projects](https://youtube.com/playlist?list=PLPTV0NXA_ZSgmWYoSpY_2EJzPJjkke4Az&si=7NB8fLb5DFMqJdFe)
 ## Step -5 : [LLM + GenAI](https://youtube.com/playlist?list=PLQxDHpeGU14AIu52l2OlIJs9z94yTFR_t&si=hbuXgciUrOkgAFcG)
