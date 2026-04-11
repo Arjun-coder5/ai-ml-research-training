@@ -1,7 +1,7 @@
 ## 1 : [DV LIB](https://youtube.com/playlist?list=PL9n0l8rSshSnragNblKDBsT8Xu3otp3jA&si=5ZMV5wE3MeGTBWpd)
 ## 2.1 : [FastAPI](https://youtube.com/playlist?list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ&si=jOj0Ys9id-KvCix0)
 ## 2.2 : [Ml Learn and implement](https://youtu.be/hDKCxebp88A?si=Dp7UP0KqIvHiOBIR)
-## 3 : [Practise After this above course]9https://youtube.com/playlist?list=PLfFghEzKVmjsSdQ61kdqcfE2vgrsVJqL4&si=_H-VGA2Ssd5A1oAl)
+## 3 : [Practise After this above course]https://youtube.com/playlist?list=PLfFghEzKVmjsSdQ61kdqcfE2vgrsVJqL4&si=_H-VGA2Ssd5A1oAl)
 ## 4 : [Deep Learning](https://youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&si=v3wASWsBp0M-lyLi)
 ## 5 :[Practical Deep learning using Pytorch](https://youtube.com/playlist?list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7&si=rcM0Pix1MsdCqRio)
 ## 6 : [NLP](https://youtube.com/playlist?list=PLKnIA16_RmvZo7fp5kkIth6nRTeQQsjfX&si=qJ9VCvT9Ezcktvup)
