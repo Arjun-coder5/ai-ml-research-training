@@ -1,12 +1,18 @@
+### Phase 1: FOUNDATION AND API DEVELOPMENT 
 ## 1 : [DV LIB](https://youtube.com/playlist?list=PL9n0l8rSshSnragNblKDBsT8Xu3otp3jA&si=5ZMV5wE3MeGTBWpd)
-## 2.1 : [FastAPI](https://youtube.com/playlist?list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ&si=jOj0Ys9id-KvCix0) [PROJECT](https://youtube.com/playlist?list=PLtjl3y2jZEeX_FEOtwAyL4W64tnrrbRNd&si=a_OlaA-dA61hmnps)
-## 2.2 : [Ml Learn ](https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&si=IHY9A_GwLbpW4Rot)
+### Phase 2: Statistical Modeling & Real-World Application 
+## 2 : [Ml Learn ](https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&si=IHY9A_GwLbpW4Rot)
 ## 3 : [Practise After this above course](https://youtube.com/playlist?list=PLfFghEzKVmjsSdQ61kdqcfE2vgrsVJqL4&si=_H-VGA2Ssd5A1oAl)
+### Phase 3: Deep Learning & Framework Mastery
 ## 4 : [Deep Learning](https://youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn&si=JAI5Ey6BsyRxRPPC)
 ## 5 :[Practical Deep learning using Pytorch](https://youtube.com/playlist?list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7&si=rcM0Pix1MsdCqRio)
+### Phase 4: Specialized AI
 ## 6 : [NLP](https://youtube.com/playlist?list=PLKnIA16_RmvZo7fp5kkIth6nRTeQQsjfX&si=qJ9VCvT9Ezcktvup)
-## 7 : [LLM + GenAI](https://youtube.com/playlist?list=PLQxDHpeGU14AIu52l2OlIJs9z94yTFR_t&si=hbuXgciUrOkgAFcG)
-## 8 : [Computer Vision + Projects](https://youtube.com/playlist?list=PLb49csYFtO2HAdNGChGzohFJGnJnXBOqd&si=SPLFxOEjPSJN16pS)
-## 9 : [MLOps ](https://youtube.com/playlist?list=PLupK5DK91flV45dkPXyGViMLtHadRr6sp&si=ARSsjVsC26jyKXZo)
-## 10: [AI Agent Real use case ](https://youtube.com/playlist?list=PLj0jSMWhCsdnsI6Pklh9Igru9dmUrHIxl&si=7B4tXEGu8wPTzEL9)
+## 7 : [Computer vission](https://youtube.com/playlist?list=PLb49csYFtO2HAdNGChGzohFJGnJnXBOqd&si=SPLFxOEjPSJN16pS)
+## 8 : [LLM + GenAI](https://youtube.com/playlist?list=PLQxDHpeGU14AIu52l2OlIJs9z94yTFR_t&si=hbuXgciUrOkgAFcG)
+### Phase 5: Engineering & Production
+## 9 : [FastAPI](https://youtube.com/playlist?list=PLKnIA16_RmvZ41tjbKB2ZnwchfniNsMuQ&si=jOj0Ys9id-KvCix0) [PROJECT](https://youtube.com/playlist?list=PLtjl3y2jZEeX_FEOtwAyL4W64tnrrbRNd&si=a_OlaA-dA61hmnps)
+## 10 : [MLOps ](https://youtube.com/playlist?list=PLupK5DK91flV45dkPXyGViMLtHadRr6sp&si=ARSsjVsC26jyKXZo)
+### Phase 6 :  Mastery : 
+## 11: [AI Agent Real use case ](https://youtube.com/playlist?list=PLj0jSMWhCsdnsI6Pklh9Igru9dmUrHIxl&si=7B4tXEGu8wPTzEL9)
 
