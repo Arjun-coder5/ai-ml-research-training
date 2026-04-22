@@ -1,5 +1,10 @@
-### Phase 1: FOUNDATION AND API DEVELOPMENT 
-## 1 : [DV LIB](https://youtube.com/playlist?list=PL9n0l8rSshSnragNblKDBsT8Xu3otp3jA&si=5ZMV5wE3MeGTBWpd)
+### Phase 1: FOUNDATION - 
+## 1 : [Pandas](https://youtu.be/VXtjG_GzO7Q?si=fsm-KQCGSq0W66t_)
+## 2 : [DATA Cleaning](https://youtu.be/bDhvCp3_lYw?si=Ni0P5P-fdsd18hP7)
+## 3 : [MatplotLib](https://youtu.be/c9vhHUGdav0?si=90qkU0If7SATo9zT)
+## 4 : [Seaborn](https://youtu.be/39cge_JhVjI?si=EUn5o0oIunuxtIvt)
+## 5 : [Excel](https://youtu.be/Zr0sNpeClV4?si=M1rusGSjmQZJb4Oi)
+## 6 : [PowerBi](https://youtu.be/Te8ROybkRnQ?si=MZHfLPBvNowqGw_0)
 ### Phase 2: Statistical Modeling & Real-World Application 
 ## 2 : [Ml Learn ](https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&si=IHY9A_GwLbpW4Rot)
 ## 3 : [Practise After this above course](https://youtube.com/playlist?list=PLfFghEzKVmjsSdQ61kdqcfE2vgrsVJqL4&si=_H-VGA2Ssd5A1oAl)
